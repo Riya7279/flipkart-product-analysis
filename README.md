@@ -9,6 +9,7 @@ The dashboard provides an interactive view of product performance and helps iden
 
 ## 📊 Dashboard Preview
 
+![Flipkart Dashboard]
 Screenshot 2026-06-02 171604.png
 
 ---
