@@ -9,8 +9,7 @@ The dashboard provides an interactive view of product performance and helps iden
 
 ## 📊 Dashboard Preview
 
-![Flipkart Dashboard]
-(flipkart_product_analysis.pbix)
+
 
 ---
 
