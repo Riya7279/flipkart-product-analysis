@@ -98,4 +98,4 @@ flipkart-product-analysis/
 
 **Riya Saraswati**
 
-Note:Please use your own SQL username and password with your own credentials before running the SQL queries.
+Note: Please use your own SQL username and password with your own credentials before running the SQL queries.
