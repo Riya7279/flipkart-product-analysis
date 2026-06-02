@@ -100,3 +100,6 @@ flipkart-product-analysis/
 
 BCA Student | Aspiring Data Analyst | Power BI Enthusiast
 
+## Note
+
+Please use your own SQL username and password with your own credentials before running the SQL queries.
