@@ -98,8 +98,4 @@ flipkart-product-analysis/
 
 **Riya Saraswati**
 
-BCA Student | Aspiring Data Analyst | Power BI Enthusiast
-
-## Note
-
-Please use your own SQL username and password with your own credentials before running the SQL queries.
+Note:Please use your own SQL username and password with your own credentials before running the SQL queries.
