@@ -62,7 +62,7 @@ The dashboard provides an interactive view of product performance and helps iden
 - SQL
 - Python
 - Pandas
-- Jupyter Notebook
+- VSCode
 - CSV Dataset
 - GitHub
 
